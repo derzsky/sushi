@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UserPermissionDefinitionPermissionTypeElementsElements>
+  <UserPermissionDefinitionPermissionTypeElements Id="0b9742f1-7472-4694-a10b-dc1977c21e49" UserPermissionDefinitionId="565fd0dd-fbd4-4212-a7c0-c183da9b5720" PermissionTypeName="Edit" />
+  <UserPermissionDefinitionPermissionTypeElements Id="1e125268-a6f1-40ce-95d6-6748915880b3" UserPermissionDefinitionId="565fd0dd-fbd4-4212-a7c0-c183da9b5720" PermissionTypeName="Publish" />
+  <UserPermissionDefinitionPermissionTypeElements Id="252736a8-ca64-4ce8-96dd-0086965239d4" UserPermissionDefinitionId="565fd0dd-fbd4-4212-a7c0-c183da9b5720" PermissionTypeName="Add" />
+  <UserPermissionDefinitionPermissionTypeElements Id="793db6f8-e274-42ff-a906-7434de241132" UserPermissionDefinitionId="565fd0dd-fbd4-4212-a7c0-c183da9b5720" PermissionTypeName="Delete" />
+  <UserPermissionDefinitionPermissionTypeElements Id="8b878a1c-c2ea-4ca6-92d1-d9692349939a" UserPermissionDefinitionId="565fd0dd-fbd4-4212-a7c0-c183da9b5720" PermissionTypeName="Administrate" />
+  <UserPermissionDefinitionPermissionTypeElements Id="a095e7dc-e4bb-4458-929b-cc7204c3a8a5" UserPermissionDefinitionId="565fd0dd-fbd4-4212-a7c0-c183da9b5720" PermissionTypeName="Approve" />
+  <UserPermissionDefinitionPermissionTypeElements Id="c59f6352-38f4-40d8-adf8-f737285dfbbb" UserPermissionDefinitionId="565fd0dd-fbd4-4212-a7c0-c183da9b5720" PermissionTypeName="Read" />
+</UserPermissionDefinitionPermissionTypeElementsElements>
